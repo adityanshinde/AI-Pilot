@@ -1,0 +1,3 @@
+OPEN_ROUTER_API_KEY = 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
+GROQ_API_KEY = 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
+DATABASE_URL= postgresql://neondb_owner:npg_3SUTp5rEaedh@ep-tiny-field-a18wfw1k.ap-southeast-1.aws.neon.tech/aipilotdb?sslmode=require&channel_binding=require

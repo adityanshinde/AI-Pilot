@@ -1,0 +1,13 @@
+crewai==0.41.1
+SQLAlchemy==2.0.30
+psycopg2-binary==2.9.9
+praw==7.7.1
+requests==2.32.3
+python-dotenv==1.0.1
+vaderSentiment==3.3.2
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+numpy==1.26.4
+pydantic==2.8.2
+tenacity==8.5.0
+beautifulsoup4==4.12.3
